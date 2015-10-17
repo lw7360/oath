@@ -1,4 +1,4 @@
-var Yagsog = require('../Yagsog.js');
+var Yagsog = require('../yagsog.js');
 
 module.exports = {
   pending: function () {
