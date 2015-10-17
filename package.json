@@ -1,0 +1,27 @@
+{
+  "name": "yagsog",
+  "version": "0.0.1",
+  "description": "Just another Promises/A+ 1.1 implementation",
+  "main": "yagsog.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lw7360/yagsog.git"
+  },
+  "keywords": [
+    "promise",
+    "promises/a+",
+    "yagsog"
+  ],
+  "author": "Larry Wu <lw7360@gmail.com> (http://larrywu.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lw7360/yagsog/issues"
+  },
+  "scripts": {
+    "test": "promises-aplus-tests test/yagsog-adapter"
+  },
+  "homepage": "https://github.com/lw7360/yagsog#readme",
+  "devDependencies": {
+    "promises-aplus-tests": "^2.1.1"
+  }
+}
